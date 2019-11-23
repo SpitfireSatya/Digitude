@@ -1,0 +1,22 @@
+{
+  "name": "digitude",
+  "version": "1.0.0",
+  "description": "digitude event backend",
+  "main": "digitude_v2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "digitude"
+  ],
+  "author": "Spitfire",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongoose": "^4.4.3",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}

@@ -1,0 +1,675 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"process"
+			],
+			[
+				"body",
+				"body"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"c",
+				"comment_creator"
+			],
+			[
+				"conta",
+				"contact_route"
+			],
+			[
+				"eve",
+				"event_route"
+			],
+			[
+				"authen",
+				"authentication"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"comm",
+				"comment_count"
+			],
+			[
+				"comment_c",
+				"comment_count"
+			],
+			[
+				"like",
+				"like_count"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"likes",
+				"likes"
+			],
+			[
+				"digi",
+				"digitude_event"
+			],
+			[
+				"digitu",
+				"digitude_event"
+			],
+			[
+				"event",
+				"eventID"
+			],
+			[
+				"comment",
+				"commentnew"
+			],
+			[
+				"comme",
+				"comment_creator"
+			],
+			[
+				"commetns",
+				"comments"
+			],
+			[
+				"Comm",
+				"Comment"
+			],
+			[
+				"comments",
+				"Comments"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"_",
+				"_event"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"users",
+				"users"
+			],
+			[
+				"pword",
+				"pword"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"do",
+				"doc"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"in",
+				"instructionType"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"sti",
+				"stickyOffset"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"ht",
+				"http"
+			],
+			[
+				"my",
+				"myController"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"input",
+				"inputValue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 1015,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "digitude_final.js",
+			"settings":
+			{
+				"buffer_size": 3126,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/844773/Desktop/Personalize"
+	],
+	"file_history":
+	[
+		"/C/Digitude/digi.sublime-project",
+		"/C/Digitude/routes/comment_route.js",
+		"/C/Digitude/routes/event_route.js",
+		"/C/Digitude/routes/like_route.js",
+		"/C/Digitude/small_cluster.js",
+		"/C/Digitude/app_test.js",
+		"/C/Digitude/cluster_test.js",
+		"/C/Digitude/old files/small_cluster.js",
+		"/C/Digitude/old files/cluster_sample.js",
+		"/C/Digitude/put_redirect.js",
+		"/C/Digitude/digitude_final.js",
+		"/C/Digitude/models/comment_model.js",
+		"/C/Digitude/routes/contact_route.js",
+		"/C/Digitude/cluster_sample.js",
+		"/C/Digitude/models/like_model.js",
+		"/C/Digitude/config/passport.js",
+		"/C/Digitude/models/user_model.js",
+		"/C/Digitude/models/like.js",
+		"/C/Digitude/authentication.js",
+		"/C/Digitude/contact.js",
+		"/C/Digitude/user.js",
+		"/C/Digitude/like.js",
+		"/C/Digitude/digitude_event.js",
+		"/C/Digitude/comment.js",
+		"/C/Digitude/digitude_v2.js",
+		"/C/Digitude/contact_us.js",
+		"/C/work_new/passport_test.js",
+		"/C/Digitude/digitude_temp.js",
+		"/C/work_new/pop.js",
+		"/C/work_new/mongoose_test.js",
+		"/C/work_new/mongoose_express.js",
+		"/C/work_new/mongo_express.js",
+		"/C/work_new/dbtest.js",
+		"/C/work_new/temp1.js",
+		"//01hw406739/DM_Public/Common_Softwares/Sublime/demo.html",
+		"/C/Users/844773/Downloads/attachments (9)/DummyManageSpecialInstructionWebController.java",
+		"/C/Users/1012670/assignment/assignment10.html",
+		"/C/Users/844773/Desktop/Personalize/css/style.css",
+		"/C/Users/844773/Downloads/nextgen_V02/nextgen 16 dec 2016/nextgen/newScreenDT.html",
+		"/C/Users/844773/Downloads/nextgen_V02/nextgen 16 dec 2016/nextgen/index.html",
+		"/C/Users/844773/Downloads/attachments (4)/uploadFilePersonalize.jsp",
+		"/C/Users/844773/Downloads/personalizeUploadFile.jsp",
+		"/C/Users/844773/Desktop/manage request task type/manageRequestTaskType.jsp",
+		"/C/Users/844773/Downloads/attachments (1)/requestTaskTypeBulkMaintenance.jsp",
+		"/C/Users/844773/Desktop/test.html",
+		"/C/Users/844773/Downloads/nextgen_V02/nextgen 16 dec 2016/nextgen/olderScreen.html",
+		"/C/Users/844773/Desktop/Personalize/assignmentAlignmentPolicy.html",
+		"/C/Users/844773/Desktop/fleetInfo Policy/fleetInfo Policy/MCDTclientSearch.html",
+		"/C/Users/844773/Desktop/manage special ins/addSpecialInstruction.html",
+		"/C/Users/844773/Desktop/manage special ins/manageSpecialInstruction.html",
+		"/C/Users/844773/Desktop/manage special ins/viewSpecialInstruction.html",
+		"/C/Users/844773/Downloads/attachments (1)/requestTaskTypeBulkMaintenance.html",
+		"/C/Users/844773/Desktop/fleetInfo Policy/fleetInfo Policy/index.html",
+		"/C/Users/844773/Desktop/notifyMe_ATA/css/style.css",
+		"/C/Users/844773/Desktop/manage special ins/css/style.css",
+		"/C/Users/844773/Downloads/notifyMe_ATA/notifyMe_ATA/index.html",
+		"/C/Users/844773/Desktop/notifyMe_ATA/index.html",
+		"//01hw406739/DM_Public/Team_Individuals/Prateek Mehrotra/Prateek.txt",
+		"/C/Users/844773/Desktop/fleetInfo Policy/fleetInfo Policy/MCDTbreakdown.html",
+		"/C/Users/844773/Desktop/manage special instruction/manageSpecialInstruction.html",
+		"/C/Users/844773/Desktop/manage special instruction/css/style.css",
+		"/C/Users/844773/Desktop/manage special ins/manageSpecialInstructions.html",
+		"/C/Users/844773/Downloads/attachments/fleetInfo Policy/fleetInfo Policy/ManageDefaultDataTemplates.html",
+		"/C/Users/844773/Desktop/fleetInfo Policy/fleetInfo Policy/css/style.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"');\n",
+			"users",
+			"div .personalizeAssociatePplTeam-Form ends here",
+			"search",
+			"searchbtn",
+			"myFunction",
+			"DivId",
+			"name",
+			"       		\n",
+			"Tax",
+			"[{}]",
+			"span",
+			"	\n",
+			":\n",
+			"division",
+			"label",
+			" \n",
+			">\n",
+			"table",
+			"def-temp-leftWrapPartition\n",
+			"def-temp-leftWrapperSub-a-SubContainer def-temp-border-bottom\n",
+			"});\n",
+			"script",
+			"radio",
+			"test",
+			"ManageDefaultDataTemplates_wrapper",
+			"MCDTbreakdown_wrapper",
+			"groupId",
+			"groudId",
+			"groudId ",
+			"DivId",
+			"');\n",
+			"driverDropdown",
+			"errorMsg",
+			"save",
+			">\n",
+			"save",
+			"Name overlay policy",
+			"DRIVER ADDRESS UPDATE EXCLUSION",
+			"OVERRIDES ALLOWED",
+			"FAS",
+			"middle-container-header",
+			"log",
+			">'+'</",
+			"maintable",
+			"subcats",
+			">\n",
+			"container",
+			"&",
+			"                      \n",
+			"#carousel-example-generic",
+			"modal",
+			"lightbox",
+			"sm",
+			"</span>",
+			"<span>",
+			":</",
+			":*</",
+			"tab-mobile-menu",
+			"belowFormText_color",
+			"belowF",
+			"form",
+			"no-",
+			"}",
+			"userquerytable",
+			"nopadd",
+			"marginButton",
+			"partionLine",
+			"belowFormText_color",
+			"type",
+			"330",
+			"sorting_1",
+			"td.sorting_1",
+			"#EAEBFF",
+			"tr.even",
+			"table.dataTable",
+			"table.dataTable tr.odd td.sorting_1",
+			"table.dataTable tr.odd td.sorting_1...",
+			"dom",
+			">\n",
+			"show",
+			"style",
+			"  ",
+			"$('#inner-content').show();",
+			">\n",
+			" #",
+			"f1f1f1",
+			"’",
+			"–",
+			"45px",
+			"status",
+			"validator",
+			"data error",
+			"please include",
+			"please include an \"@\"",
+			"please include an ",
+			"selected",
+			"jsList",
+			"://"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&",
+			"#galary",
+			"",
+			"'",
+			"-"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1014,
+								1014
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "digitude_final.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								368,
+								368
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "digi.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
